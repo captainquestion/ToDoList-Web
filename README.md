@@ -11,17 +11,17 @@ You can edit url to create and save your notes !
 # Screenshot
 Main Page (https://afternoon-scrubland-37013.herokuapp.com/)
 
-![](screenshot/Home.png)
+![](screenshots/Home.png)
 
 Grocery (https://afternoon-scrubland-37013.herokuapp.com/Grocery)
 
-![](screenshot/Grocery.png)
+![](screenshots/Grocery.png)
 
 Your List ! (https://afternoon-scrubland-37013.herokuapp.com/Canberk's%20list)
 
-![](screenshot/Canberks.png)
+![](screenshots/Canberks.png)
 
-![](screenshot/Learn.png)
+![](screenshots/Learn.png)
 
 
 
